@@ -14,6 +14,3 @@ for i in range(10):
         test()
     else:
         print(i*i)
-
-print('adding more lines')
-print('edited from github')
